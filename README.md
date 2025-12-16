@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share: 18% Member Conversion Strategy
+# Customer Journey Analysis: 18% Member Conversion Strategy
 
 - Analyzed 4.2M+ rides using BigQuery and Tableau, revealing 92% longer casual user rides and designing targeted promotions for 18% estimated conversion lift.
 
@@ -109,6 +109,7 @@ The analysis of user behavior patterns to drive membership strategy is analogous
 1. **Data Source**: Divvy Trip Data (publicly available)  
 2. **Tools Used**: SQL, Tableau, Excel, BigQuery  
 3. **Analysis Framework**: Behavioral segmentation, spatial analytics  
+
 
 
 
