@@ -93,8 +93,7 @@ The analysis used 12 months (October 2023 to September 2024) of historical trip 
 ---
 
 ## **Conclusion**  
-This analysis provides a data-driven foundation for Cyclistic's membership growth strategy. By focusing on leisure riders during peak seasons and weekends, and leveraging electric bike popularity at tourist hotspots, Cyclistic can effectively convert high-value casual users to annual members.
-The analysis of user behavior patterns to drive membership strategy is analogous to analyzing patient engagement data to improve health program adherence and retention.
+This analysis provides a data-driven foundation for Cyclistic's membership growth strategy. By focusing on leisure riders during peak seasons and weekends, and leveraging electric bike popularity at tourist hotspots, Cyclistic can effectively convert high-value casual users into annual members. The resulting behavioral segmentation framework provides a repeatable methodology for driving subscription-based growth through targeted, location-based interventions.
 
 ---
 
@@ -109,6 +108,7 @@ The analysis of user behavior patterns to drive membership strategy is analogous
 1. **Data Source**: Divvy Trip Data (publicly available)  
 2. **Tools Used**: SQL, Tableau, Excel, BigQuery  
 3. **Analysis Framework**: Behavioral segmentation, spatial analytics  
+
 
 
 
